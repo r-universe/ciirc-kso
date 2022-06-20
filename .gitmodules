@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rless"]
+	path = rless
+	url = https://github.com/ciirc-kso/rless
+	shallow = true
+	registered = true
